@@ -2,6 +2,7 @@
   "expo": {
     "name": "okie-dokie-react",
     "slug": "okie-dokie-react",
+    "plugin": ["@react-native-google-signin/google-signin"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,13 +19,20 @@
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.shauri2805.okiedokiereact"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "439d145d-7848-4d3a-9ebf-51a89fd28266"
+      }
     }
   }
 }

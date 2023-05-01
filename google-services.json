@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "448159404425",
+    "project_id": "todo-app-e2bae",
+    "storage_bucket": "todo-app-e2bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448159404425:android:8987cb2a6739281be0d158",
+        "android_client_info": {
+          "package_name": "com.shauri2805.okiedokiereact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448159404425-1ektn2eknjdf7lpihpdbjn8ufjuni2sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shauri2805.okiedokiereact",
+            "certificate_hash": "5fc21b2f1aff731ca4d7e5ed32e78eb0838e11bd"
+          }
+        },
+        {
+          "client_id": "448159404425-9blsv7l759a2e6rp1sottaudt8ef5tcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB2mh_PAk1BCigjkYwM2DwnUPA1TSlH20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448159404425-9blsv7l759a2e6rp1sottaudt8ef5tcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
